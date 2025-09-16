@@ -6,6 +6,7 @@ date: 2025-09-16
 
 ## Ngram of the term
 Quantitative evolution of the term Open Science (case-insensitive) in the corpus of Google Books (1800-2022, English language. 
+
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=Open+Science&year_start=1800&year_end=2022&corpus=en&smoothing=3" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
 
