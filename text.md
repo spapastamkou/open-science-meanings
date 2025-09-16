@@ -16,3 +16,5 @@ Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought
 Papastamkou Sofia. (2019, octobre 17). Du mouvement de l'open access à la politique de la science ouverte. L'impact sur la recherche aujourd'hui. Zenodo. https://doi.org/10.5281/zenodo.3572831 
 
 Reichmann S, Wieser B. Open science at the science-policy interface: bringing in the evidence? *Health Research Policy and Systems*. 2022 Jun 20; 20(1):70. doi: 10.1186/s12961-022-00867-6. PMID: 35725491; PMCID: PMC9208144
+
+Roser, Max, Hannah Ritchie, and Edouard Mathieu (2023) - “What is Moore's Law?” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/moores-law' [Online Resource]
