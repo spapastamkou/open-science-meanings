@@ -4,6 +4,9 @@ author: Sofia Papastamkou
 date: 2025-09-16
 ---
 
+## 
+
+
 ## Ngram of the term
 Quantitative evolution of the term Open Science (case-insensitive) in the corpus of Google Books (1800-2022, English language. 
 
@@ -11,7 +14,7 @@ Quantitative evolution of the term Open Science (case-insensitive) in the corpus
 
 We notice that the term becomes more frequent from the mid-2000s onwards and especially since the mid-2010s (the peak starting around 2013-2015). 
 
- ![Quantitative evolution of the term Open Science produced with Google Ngram Viewer](images\ngram-open-science-2025-09-17.png "Quantitative evolution of the term Open Science produced with Google Ngram Viewer")
+ ![Quantitative evolution of the term Open Science produced with Google Ngram Viewer](/images/ngram-open-science-2025-09-17.png "Quantitative evolution of the term Open Science produced with Google Ngram Viewer")
 
 ## References 
 Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) *Opening Science*. Springer, Cham. https://doi-org.inshs.bib.cnrs.fr/10.1007/978-3-319-00026-8_2
