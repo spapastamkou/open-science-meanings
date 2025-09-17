@@ -4,14 +4,24 @@ author: Sofia Papastamkou
 date: 2025-09-16
 ---
 
-## 
+## The multiple facets of open science
+
+* Ethical 
+* Scientific
+* Economic 
+* Political
+* Social
+* Institutional
+* Technical
+
+(See open call: *Open Science as an Object of Research: Methods, Ethics, and Epistemology*, SCIROS workshop, Marseille, OpenEdition Lab, 23-24 September 2025)
 
 
 ## Ngram of the term
 Quantitative evolution of the term Open Science (case-insensitive) in the corpus of Google Books (1800-2022, English language. 
-
+<!-->
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=Open+Science&year_start=1800&year_end=2022&corpus=en&smoothing=3" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
-
+-->
 We notice that the term becomes more frequent from the mid-2000s onwards and especially since the mid-2010s (the peak starting around 2013-2015). 
 
  ![Quantitative evolution of the term Open Science produced with Google Ngram Viewer](/images/ngram-open-science-2025-09-17.png "Quantitative evolution of the term Open Science produced with Google Ngram Viewer")
