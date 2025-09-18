@@ -44,6 +44,8 @@ Fecher & Friesike 2014 identify a diversity / ambiguity in the discourse on open
 4. Infrastructure school
 5. Measurement school
 
+![5 schools of thought on Open Science](/images/five-schools-of-os-2025-09-17.png "5 schools of thought on Open Science as per Fecher & Friesike 2014")
+
 #### Public school
 
 #### Democratic school
