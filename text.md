@@ -16,9 +16,11 @@ date: 2025-09-16
 
 (See open call: *Open Science as an Object of Research: Methods, Ethics, and Epistemology*, SCIROS workshop, Marseille, OpenEdition Lab, 23-24 September 2025)
 
+OS: "an umbrella term for a programme of reforming science by reforming scholarly communication, with a clearly normative thrust (i.e. to make science better)." (Reichmann & Wieser 2020). The authors notice that frequently OS is used interchangeably with the terms OA and open data.   
+
 ### A genealogical approach of OS as openness and accessibility
 
-Moore 2017 takes a genealogical approach, inspired by Foucault, to examine different discourses on openness and access to scholarship. 
+Moore 2017 takes a genealogical approach, inspired by Foucault, to examine different discourses on openness and access to scholarship. *This article focuses on OA rather than OS.*  
 
 Considers OS from a social (=community) perspective and insists on its dynamic dimension:  "One should not think of OA as a thing-in-itself; rather, it should be seen as a  process of understanding, engaging and experimenting with the ways in which research is presented and disseminated. OA should therefore be considered and fostered as a community-led initiative"
 
@@ -47,14 +49,28 @@ Fecher & Friesike 2014 identify a diversity / ambiguity in the discourse on open
 ![5 schools of thought on Open Science](/images/five-schools-of-os-2025-09-17.png "5 schools of thought on Open Science as per Fecher & Friesike 2014")
 
 #### Public school
+Focus: access (through participatory practices and shared authority)
+Means: web technologies
+Goal: Open science to the publics (citizen science)
 
 #### Democratic school
+Focus: access to research data and scientific publications
+Open data and OA movements
+Repositories
 
 #### Pragmatic school
+Focus: make research more efficient 
+Open innovation related
+Web technologies, collaborative tools (*the notion of tool is very present in this segment of literature*)
 
 #### Infrastructure school
+Focus: technical infrastructure: software tools, applications, informations systems, networks
+Practice, case-specificity
+Distributed computing
+Social and collaboration networks for scientists
 
 #### Measurement school
+Focus: impact measurement (=> research evaluation) through altmetrics
 
 ## Ngram of the term
 Quantitative evolution of the term Open Science (case-insensitive) in the corpus of Google Books (1800-2022, English language. 
