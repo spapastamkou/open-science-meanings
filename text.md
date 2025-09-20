@@ -84,13 +84,12 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
 
  > "'Open Science' is one of the buzzwords of the scientific community". (Fecher & Friesike 2014) 
 
-## References 
-Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) *Opening Science*. Springer, Cham. https://doi-org.inshs.bib.cnrs.fr/10.1007/978-3-319-00026-8_2
+ ### The politics/policies of OS
 
-Moore, Samuel A. "A genealogy of open access: negotiations between openness and access to research". *Revue française des sciences de l’information et de la communication* 11, 2017, DOI: https://doi.org/10.4000/rfsic.3220
+ Keohane & Nye consider scientific information as part of free information (the two other categories being commercial and strategic), e.g. information to be acquired (by a receiver) or made available (by the sender) for free. The sender gets advantages from the receiver using the information which is an incentive to produce it. As capacity to attract attention to the information they produce. 
 
 Papastamkou Sofia. (2019, octobre 17). Du mouvement de l'open access à la politique de la science ouverte. L'impact sur la recherche aujourd'hui. Zenodo. https://doi.org/10.5281/zenodo.3572831 
 
-Reichmann S, Wieser B. Open science at the science-policy interface: bringing in the evidence? *Health Research Policy and Systems*. 2022 Jun 20; 20(1):70. doi: 10.1186/s12961-022-00867-6. PMID: 35725491; PMCID: PMC9208144
+Reichmann S, Wieser B. Open science at the science-policy interface: bringing in the evidence? *Health Research Policy and Systems*. 2022 Jun 20; 20(1):70. doi: 10.1186/s12961-022-00867-6. 
 
 Roser, Max, Hannah Ritchie, and Edouard Mathieu (2023) - “What is Moore's Law?” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/moores-law' [Online Resource]
