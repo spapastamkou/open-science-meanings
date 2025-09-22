@@ -16,7 +16,23 @@ date: 2025-09-16
 
 (See open call: *Open Science as an Object of Research: Methods, Ethics, and Epistemology*, SCIROS workshop, Marseille, OpenEdition Lab, 23-24 September 2025)
 
-OS: "an umbrella term for a programme of reforming science by reforming scholarly communication, with a clearly normative thrust (i.e. to make science better)." (Reichmann & Wieser 2020). The authors notice that frequently OS is used interchangeably with the terms OA and open data.   
+OS: "an umbrella term for a programme of reforming science by reforming scholarly communication, with a clearly normative thrust (i.e. to make science better)." (Reichmann & Wieser 2020). The authors notice that frequently OS is used interchangeably with the terms OA and open data. 
+
+## What is OS? 
+
+Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society." It can be defined as a grouping of **principles** and **practices** (FOSTER taxonomy definition).
+
+Principles
+
+"Open Science is about increased transparency, re-use, participation, cooperation, accountability and reproducibility for research. It aims to improve the quality and reliability of research through principles like inclusion, fairness, equity, and sharing."
+
+Practices
+
+Open access to research publications, data-sharing, open notebooks, transparency in research evaluation, ensuring the reproducibility of research (where possible), transparency in research methods, open source code, software and infrastructure, citizen science and open educational resources. 
+
+See GitBook Bot et al. *Open Science Training Handbook*. Zenodo, 4 April 2018. https://doi.org/10.5281/zenodo.1212538.
+
+![FOSTER taxonomy for OS](/images/os-taxonomy.png "FOSTER taxonomy for open science")
 
 ### A genealogical approach of OS as openness and accessibility
 
@@ -181,6 +197,8 @@ Benson Marshall, M., Pinfield, S., Abbott, P. et al. The impact of COVID-19 on t
 Chan, Leslie, Budd Hall, Florence Piron, Rajesh Tandon, and Lorna Williams. “Open Science Beyond Open Access: For and with communities. A step towards the decolonization of knowledge”, the Canadian Commission for UNESCO’s IdeaLab, Ottawa, Canada, July 2020
 
 Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) *Opening Science*. Springer, Cham. https://doi-org.inshs.bib.cnrs.fr/10.1007/978-3-319-00026-8_2
+
+GitBook Bot, Lambert Heller, datawomanHUB, mcancellieri, Bianca Kramer, Tony Ross-Hellauer, ilabastida, helenebr, Pedro Fernandes, et Jon Tennant. « Open Science Training Handbook ». Zenodo, 4 avril 2018. https://doi.org/10.5281/zenodo.1212538.
 
 Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*. Boston (MA): Pearson, 2012
 
