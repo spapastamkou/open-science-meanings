@@ -50,23 +50,32 @@ Fecher & Friesike 2014 identify a diversity / ambiguity in the discourse on open
 
 #### Public school
 Focus: access (through participatory practices and shared authority)
+
 Means: web technologies
+
 Goal: Open science to the publics (citizen science)
 
 #### Democratic school
 Focus: access to research data and scientific publications
+
 Open data and OA movements
+
 Repositories
 
 #### Pragmatic school
 Focus: make research more efficient 
+
 Open innovation related
+
 Web technologies, collaborative tools (*the notion of tool is very present in this segment of literature*)
 
 #### Infrastructure school
 Focus: technical infrastructure: software tools, applications, informations systems, networks
+
 Practice, case-specificity
+
 Distributed computing
+
 Social and collaboration networks for scientists
 
 #### Measurement school
@@ -83,6 +92,20 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
  ![Quantitative evolution of the term Open Science produced with Google Ngram Viewer](/images/ngram-open-science-2025-09-17.png "Quantitative evolution of the term Open Science produced with Google Ngram Viewer")
 
  > "'Open Science' is one of the buzzwords of the scientific community". (Fecher & Friesike 2014) 
+
+ ### The emergence of the OA movement (?)
+
+ *Can we call it a movement?* 
+ A structural need: communication across scientific communities 
+
+ A conjuncture: Phenomena of concentration of the activity in the international scientific publication market, exponential growth of the prices of the subscriptions to scientific journals (1975-1995: +200-300%, as per Dewatripont *et al.* 2006) 
+
+ A technological disruption: web technologies 1990s, 2000s
+
+ ==> empowerement of (individual actors in the) scientific communities, decentralized publication, + activation of institutional actors 
+ 
+  
+
 
  ### The politics/policies of OS
 
@@ -113,8 +136,7 @@ mover and still enjoys a lead in the application of a wide variety of informatio
 technologies. (Keohane & Nye 2012, p. 217-218)
 
 ### UNESCO Recommendation on Open Science, 2021 
-Open science is **a set of principles and practices** that aim to make scientific research from all fields **accessible** to everyone for the benefits of **scientists and society** as a whole. Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is *
-**inclusive, equitable and sustainable**.
+Open science is **a set of principles and practices** that aim to make scientific research from all fields **accessible** to everyone for the benefits of **scientists and society** as a whole. Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is **inclusive, equitable and sustainable**.
 
 Values
 
@@ -146,10 +168,13 @@ The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were
     * In general, the number of scientific publications in open access, collaborative research platforms, open repositories, open source software and hardware is increasing but with differences across disciplines and regions.
     * Only a third of all scientific literature published between 2000 and 2021 is in open access, based on indexing in openly available bibliometric databases. The trend is positive: half of scientific articles published in 2021 were released in some form of open access.
     * Open science infrastructures now number in the thousands, increasing the need for interoperability and attention to their sustainability.
-
+4. OS requires a shift in the culture of science (aligned funding & policies, consideration of local specific contexts, monitoring of impact)
+5. OS requires investment
 
 ## References 
 Benson Marshall, M., Pinfield, S., Abbott, P. et al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanit Soc Sci Commun 11, 1315 (2024). https://doi.org/10.1057/s41599-024-03804-w
+
+Chan, Leslie, Budd Hall, Florence Piron, Rajesh Tandon, and Lorna Williams. “Open Science Beyond Open Access: For and with communities. A step towards the decolonization of knowledge”, the Canadian Commission for UNESCO’s IdeaLab, Ottawa, Canada, July 2020
 
 Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) *Opening Science*. Springer, Cham. https://doi-org.inshs.bib.cnrs.fr/10.1007/978-3-319-00026-8_2
 
@@ -162,3 +187,5 @@ Papastamkou Sofia. (2019, octobre 17). Du mouvement de l'open access à la polit
 Reichmann S, Wieser B. Open science at the science-policy interface: bringing in the evidence? *Health Research Policy and Systems*. 2022 Jun 20; 20(1):70. doi: 10.1186/s12961-022-00867-6. 
 
 Roser, Max, Hannah Ritchie, and Edouard Mathieu (2023) - “What is Moore's Law?” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/moores-law' [Online Resource]
+
+“Open Science Outlook 1: Status and Trends around the World - UNESCO Bibliothèque Numérique.” Accessed September 22, 2025. https://unesdoc.unesco.org/ark:/48223/pf0000387324.
