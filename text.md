@@ -112,6 +112,41 @@ driven by the Cold War military competition, the United States was often the fir
 mover and still enjoys a lead in the application of a wide variety of information
 technologies. (Keohane & Nye 2012, p. 217-218)
 
+### UNESCO Recommendation on Open Science, 2021 
+Open science is **a set of principles and practices** that aim to make scientific research from all fields **accessible** to everyone for the benefits of **scientists and society** as a whole. Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is *
+**inclusive, equitable and sustainable**.
+
+Values
+
+* Quality and integrity
+* Collective benefit
+* Equity and fairness
+* Diversity and inclusiveness
+
+Principles
+
+* Transparency, scrutiny, critique and reproducibility (scientific results)
+* Equality of opportunities (for all scientists and those with an interest in science) 
+* Responsibility, respect and accountability (public accountability, potential conflicts of interest, intellectual integrity, possible social or ecological consequences of research activities)
+* Collaboration, participation and inclusion (across boundaries of geography, language and resources, including knowledge from marginalized communities)
+* Flexibility (different pathways to practicing OS) 
+* Sustainability (long-term practices, services, infrastructures and funding models) 
+
+
+### UNESCO OS Outlook1, 2023
+
+The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were open access by mid-2021, compared to 40 per cent of academic articles normally, allowing science to make great breakthroughs in record time.
+
+#### Key messages of the report
+
+1. OS as access to scientific knowledge for the benefit of science and society (inclusion, reproducibility, sharing, innovation)
+2. OS as a (potential) truly global equitable phenomenon
+3. Rapid growth of existing OS practices around the world and across disciplines - need to adapt the OS methods of assessment (open quali/quanti evaluation, shift from publications/outputs to impact, values, people) 
+    Some interesting quantitative information in this section: 
+    * In general, the number of scientific publications in open access, collaborative research platforms, open repositories, open source software and hardware is increasing but with differences across disciplines and regions.
+    * Only a third of all scientific literature published between 2000 and 2021 is in open access, based on indexing in openly available bibliometric databases. The trend is positive: half of scientific articles published in 2021 were released in some form of open access.
+    * Open science infrastructures now number in the thousands, increasing the need for interoperability and attention to their sustainability.
+
 
 ## References 
 Benson Marshall, M., Pinfield, S., Abbott, P. et al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanit Soc Sci Commun 11, 1315 (2024). https://doi.org/10.1057/s41599-024-03804-w
