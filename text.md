@@ -171,6 +171,10 @@ The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were
 4. OS requires a shift in the culture of science (aligned funding & policies, consideration of local specific contexts, monitoring of impact)
 5. OS requires investment
 
+### Countries with OS policies
+
+![Open Science Policies World Map](/images/simple_open_science_map.svg)
+
 ## References 
 Benson Marshall, M., Pinfield, S., Abbott, P. et al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanit Soc Sci Commun 11, 1315 (2024). https://doi.org/10.1057/s41599-024-03804-w
 
