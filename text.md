@@ -20,7 +20,7 @@ OS: "an umbrella term for a programme of reforming science by reforming scholarl
 
 ## What is OS? 
 
-Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society." It can be defined as a grouping of **principles** and **practices** (FOSTER taxonomy definition).
+Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society." It can be defined as a grouping of **principles** and **practices** ([FOSTER taxonomy definition](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/1.1/01Introduction#what-is-open-science)).
 
 Principles
 
@@ -109,7 +109,7 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
 
  > "'Open Science' is one of the buzzwords of the scientific community". (Fecher & Friesike 2014) 
 
- ### The emergence of the OA movement (?)
+ ## The emergence of the OA movement (?)
 
  *Can we call it a movement?* 
  A structural need: communication across scientific communities 
@@ -120,16 +120,53 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
 
  ==> empowerement of (individual actors in the) scientific communities, decentralized publication, + activation of institutional actors 
  
+* arXiv (1991)
+* Santa Fe Convention, Open Archives Initiative NM (1999)
+* Budapest Declaration (2002, Open Society Institute): theoretical framework for OA 
+* [European Cultural
+Heritage Online](https://echo.mpiwg-berlin.mpg.de/home/index.html) Initiative (2002, Institut Max Planck)
+* [Bethesda Statement on OA Publishing](https://en.wikipedia.org/wiki/Bethesda_Statement_on_Open_Access_Publishing), MD (2003)
+* Berlin Declaration (2003, Institut Max Planck), Berlin 3 (2005)
   
+## The politics/policies of OS
 
+* European Strategy Forum on Research Infrastructures (2002); roadmap for a policy on OA (2006) 
+* Recommandation of the European Commission (2012): OA = one of the principles of H2020
+* H2020: obligation to make openly accessible research publications - incitation to disseminate research data (obligation of OA for pilot projects Open Research Data)
 
- ### The politics/policies of OS
+### First legislations on OA 
 
- Keohane & Nye consider scientific information as part of free information (the two other categories being commercial and strategic), e.g. information to be acquired (by a receiver) or made available (by the sender) for free. The sender gets advantages from the receiver using the information which is an incentive to produce it. As capacity to attract attention to the information they produce. The information revolution increases the number of channels of communication in world politics among individuals in networks (not only in bureaucracies). Which adds a layer in the existing patterns on complex interdependence at a global level. (Keohane & Nye 2012).
+* 2011: Spain
+* 2012: UK gvt engages in favor of OA
+* 2013: Germany, Italy
+* 2014: Denmark, Netherlands
+* 2016: Loi pour une République numérique, France
 
- Knowledge as power (behavioural vs resource power: behavioural = hard/soft power) 
+Source: [MESRI](https://cache.media.enseignementsup-recherche.gouv.fr/file/Edition_scientifique/23/1/Tableau_compare_des_politiques_de_l_OA_en_Europe_-_Gayoso_-_CSES_-_septembre_201
+8_1044231.pdf)
 
- "Soft power, on the other hand, is the ability to get desired outcomes because others
+### OS as modus operandi for the European research
+
+#### European Research Area (ERA), 2000
+
+==> aim: create ["a single market for research and innovation fostering free movement of researchers, scientific knowledge and innovation, and fostering a more competitive European industry"](https://european-research-area.ec.europa.eu/era-history). 
+
+Priorities: access to research publications and data, research infrastructures
+
+#### From OA to OS
+Carlos Moeda (commissioner for research, innovation and science, 2014-2019): 3 O
+
+* Open Innovation
+* Open Science 
+* Open to the world 
+
+### Scientific information and soft power
+
+Keohane & Nye consider scientific information as part of free information (the two other categories being commercial and strategic), e.g. information to be acquired (by a receiver) or made available (by the sender) for free. The sender gets advantages from the receiver using the information which is an incentive to produce it. As capacity to attract attention to the information they produce. The information revolution increases the number of channels of communication in world politics among individuals in networks (not only in bureaucracies). Which adds a layer in the existing patterns on complex interdependence at a global level. (Keohane & Nye 2012).
+
+Knowledge as power (behavioural vs resource power: behavioural = hard/soft power) 
+
+"Soft power, on the other hand, is the ability to get desired outcomes because others
 want what you want; it is the ability to achieve desired outcomes through attraction
 rather than coercion. It works by convincing others to follow or getting them to agree
 to norms and institutions that produce the desired behavior. Soft power can rest on the
@@ -140,16 +177,10 @@ legitimate in the eyes of others and establish international institutions that e
 others to define their interests in compatible ways, it may not need to expend as many
 of its costly traditional economic or military resources." (Keohane & Nye 2012, p. 216).
 
-Some aspects of the information revolution help the small, but some help
-the already large and powerful. 
-first movers are often the creators of the standards and architecture of
+Some aspects of the information revolution help the small, but some help the already large and powerful. 
+First movers are often the creators of the standards and architecture of
 information systems. The path dependent development of such systems reflects the
-advantage of the first mover. The use of the English language and the pattern of top-level domain names on the Internet provide relevant examples. Partly because
-of the transformation of the American economy in the 1980s (which was missed or
-misunderstood by the prophets of decline) and partly because of large investments
-driven by the Cold War military competition, the United States was often the first
-mover and still enjoys a lead in the application of a wide variety of information
-technologies. (Keohane & Nye 2012, p. 217-218)
+advantage of the first mover. The use of the English language and the pattern of top-level domain names on the Internet provide relevant examples. Partly because of the transformation of the American economy in the 1980s (which was missed or misunderstood by the prophets of decline) and partly because of large investments driven by the Cold War military competition, the United States was often the first mover and still enjoys a lead in the application of a wide variety of information technologies. (Keohane & Nye 2012, p. 217-218)
 
 ### UNESCO Recommendation on Open Science, 2021 
 Open science is **a set of principles and practices** that aim to make scientific research from all fields **accessible** to everyone for the benefits of **scientists and society** as a whole. Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is **inclusive, equitable and sustainable**.
