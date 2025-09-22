@@ -86,7 +86,41 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
 
  ### The politics/policies of OS
 
- Keohane & Nye consider scientific information as part of free information (the two other categories being commercial and strategic), e.g. information to be acquired (by a receiver) or made available (by the sender) for free. The sender gets advantages from the receiver using the information which is an incentive to produce it. As capacity to attract attention to the information they produce. 
+ Keohane & Nye consider scientific information as part of free information (the two other categories being commercial and strategic), e.g. information to be acquired (by a receiver) or made available (by the sender) for free. The sender gets advantages from the receiver using the information which is an incentive to produce it. As capacity to attract attention to the information they produce. The information revolution increases the number of channels of communication in world politics among individuals in networks (not only in bureaucracies). Which adds a layer in the existing patterns on complex interdependence at a global level. (Keohane & Nye 2012).
+
+ Knowledge as power (behavioural vs resource power: behavioural = hard/soft power) 
+
+ "Soft power, on the other hand, is the ability to get desired outcomes because others
+want what you want; it is the ability to achieve desired outcomes through attraction
+rather than coercion. It works by convincing others to follow or getting them to agree
+to norms and institutions that produce the desired behavior. Soft power can rest on the
+appeal of one’s ideas or culture or the ability to set the agenda through standards and
+institutions that shape the preferences of others. It depends largely on the persuasiveness
+of the free information that an actor seeks to transmit. If a state can make its power
+legitimate in the eyes of others and establish international institutions that encourage
+others to define their interests in compatible ways, it may not need to expend as many
+of its costly traditional economic or military resources." (Keohane & Nye 2012, p. 216).
+
+Some aspects of the information revolution help the small, but some help
+the already large and powerful. 
+first movers are often the creators of the standards and architecture of
+information systems. The path dependent development of such systems reflects the
+advantage of the first mover. The use of the English language and the pattern of top-level domain names on the Internet provide relevant examples. Partly because
+of the transformation of the American economy in the 1980s (which was missed or
+misunderstood by the prophets of decline) and partly because of large investments
+driven by the Cold War military competition, the United States was often the first
+mover and still enjoys a lead in the application of a wide variety of information
+technologies. (Keohane & Nye 2012, p. 217-218)
+
+
+## References 
+Benson Marshall, M., Pinfield, S., Abbott, P. et al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanit Soc Sci Commun 11, 1315 (2024). https://doi.org/10.1057/s41599-024-03804-w
+
+Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) *Opening Science*. Springer, Cham. https://doi-org.inshs.bib.cnrs.fr/10.1007/978-3-319-00026-8_2
+
+Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*. Boston (MA): Pearson, 2012
+
+Moore, Samuel A. "A genealogy of open access: negotiations between openness and access to research". *Revue française des sciences de l’information et de la communication* 11, 2017, DOI: https://doi.org/10.4000/rfsic.3220
 
 Papastamkou Sofia. (2019, octobre 17). Du mouvement de l'open access à la politique de la science ouverte. L'impact sur la recherche aujourd'hui. Zenodo. https://doi.org/10.5281/zenodo.3572831 
 
