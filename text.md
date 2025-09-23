@@ -128,7 +128,7 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
  ==> empowerement of (individual actors in the) scientific communities, decentralized publication, + activation of institutional actors 
  
 * arXiv (1991)
-* Santa Fe Convention, Open Archives Initiative NM (1999)
+* Santa Fe Convention, Open Archives Initiative,S NM (1999)
 * Budapest Declaration (2002, Open Society Institute): theoretical framework for OA 
 * [European Cultural
 Heritage Online](https://echo.mpiwg-berlin.mpg.de/home/index.html) Initiative (2002, Institut Max Planck)
