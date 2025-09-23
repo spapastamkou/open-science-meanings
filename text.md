@@ -161,7 +161,7 @@ Source: [MESRI](https://cache.media.enseignementsup-recherche.gouv.fr/file/Editi
 Priorities: access to research publications and data, research infrastructures
 
 #### From OA to OS
-Carlos Moeda (commissioner for research, innovation and science, 2014-2019): 3 O
+Carlos Moeda (commissioner for research, innovation and science, 2014-2019): approach of 3 Os:
 
 * Open Innovation
 * Open Science 
@@ -179,7 +179,8 @@ réactivé la notion de « bien commun » associée à la Science”. Direction 
 
 #### Plan S 
 
-Plan S: an initiative for Open Access publishing, launched in September 2018 by cOAlition S (international consortium of research funding and performing organisations). 
+Plan S: an initiative for Open Access publishing, launched in September 2018 by cOAlition S (international consortium of research funding and performing organisations).
+ 
 Aim of plan S: "from 2021, scientific publications that result from research funded by public grants must be published in compliant Open Access journals or platforms".
 
 ### Scientific information and soft power
