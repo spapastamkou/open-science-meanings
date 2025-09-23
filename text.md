@@ -103,11 +103,12 @@ Focus: impact measurement (=> research evaluation) through altmetrics
 
 ## Ngram of the term
 Quantitative evolution of the term Open Science (case-insensitive) in the corpus of Google Books (1800-2022, English language. 
-<!-->
+<!--
 <html>
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=Open+Science&year_start=1800&year_end=2022&corpus=en&smoothing=3" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 </html>
 -->
+
 We notice that the term becomes more frequent from the mid-2000s onwards and especially since the mid-2010s (the peak starting around 2013-2015). 
 
 
