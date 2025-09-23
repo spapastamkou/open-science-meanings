@@ -4,7 +4,10 @@ author: Sofia Papastamkou
 date: 2025-09-16
 ---
 
-## The multiple facets of open science
+## What is OS?
+
+
+### The multiple facets of open science
 
 * Ethical 
 * Scientific
@@ -16,9 +19,9 @@ date: 2025-09-16
 
 (See open call: *Open Science as an Object of Research: Methods, Ethics, and Epistemology*, SCIROS workshop, Marseille, OpenEdition Lab, 23-24 September 2025)
 
-OS: "an umbrella term for a programme of reforming science by reforming scholarly communication, with a clearly normative thrust (i.e. to make science better)." (Reichmann & Wieser 2020). The authors notice that frequently OS is used interchangeably with the terms OA and open data. 
+### Functional definitions
 
-## What is OS? 
+OS: "an umbrella term for a programme of reforming science by reforming scholarly communication, with a clearly normative thrust (i.e. to make science better)." (Reichmann & Wieser 2020). <!--The authors notice that frequently OS is used interchangeably with the terms OA and open data.--> 
 
 Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society." It can be defined as a grouping of **principles** and **practices** ([FOSTER taxonomy definition](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/1.1/01Introduction#what-is-open-science)).
 
@@ -36,9 +39,9 @@ See GitBook Bot et al. *Open Science Training Handbook*. Zenodo, 4 April 2018. h
 
 ### A genealogical approach of OS as openness and accessibility
 
-Moore 2017 takes a genealogical approach, inspired by Foucault, to examine different discourses on openness and access to scholarship. *This article focuses on OA rather than OS.*  
+Moore 2017 takes a genealogical approach, inspired by Foucault, to examine different discourses on openness and access to scholarship. *This article focuses on OA rather than OS.* 
 
-Considers OS from a social (=community) perspective and insists on its dynamic dimension:  "One should not think of OA as a thing-in-itself; rather, it should be seen as a  process of understanding, engaging and experimenting with the ways in which research is presented and disseminated. OA should therefore be considered and fostered as a community-led initiative"
+Considers OS from a **social (=community) perspective** and insists on its **dynamic dimension**: "One should not think of OA as a thing-in-itself; rather, it should be seen as **a process** of understanding, engaging and experimenting with the ways in which research is presented and disseminated. OA should therefore be considered and fostered as a **community-led initiative**"
 
 Distinguishes two lineages influenced by:
 1. Cost-free access to research works (institutional or subject repositories, early OA journals on the web) => focus in **access**
@@ -47,14 +50,15 @@ Distinguishes two lineages influenced by:
 Openness: 
 decentralized/distributed, associated to (neo)liberal approaches of economy and free market, individualized; but also localized to collective worker-owned approaches => antagonistic political approaches and recuperations of openness 
 
-Caracter of boundary object: multiple approaches and individualized understandings/praxis but also a common shared domain
 
 Access: 
 emphasis on cost-free accessibility => repositories
 
+==> OS as boundary object: multiple approaches and individualized understandings/praxis but also a common shared domain
+
 
 ### Five schools of thought 
-Fecher & Friesike 2014 identify a diversity / ambiguity in the discourse on open science after reviewing relevant literature scholarly publications, scientific blogs, newspapers) up to that date (roughly, ten years ago). They distinguish five distinct schools of thought.
+Fecher & Friesike 2014 identify a diversity / ambiguity in the discourse on open science after reviewing relevant literature scholarly publications, scientific blogs, newspapers up to that date (roughly, ten years ago). They distinguish five distinct schools of thought.
 
 1. Public school
 2. Democratic school
@@ -100,7 +104,9 @@ Focus: impact measurement (=> research evaluation) through altmetrics
 ## Ngram of the term
 Quantitative evolution of the term Open Science (case-insensitive) in the corpus of Google Books (1800-2022, English language. 
 <!-->
+<html>
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=Open+Science&year_start=1800&year_end=2022&corpus=en&smoothing=3" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+</html>
 -->
 We notice that the term becomes more frequent from the mid-2000s onwards and especially since the mid-2010s (the peak starting around 2013-2015). 
 
@@ -111,7 +117,7 @@ We notice that the term becomes more frequent from the mid-2000s onwards and esp
 
  ## The emergence of the OA movement (?)
 
- *Can we call it a movement?* 
+ <!--*Can we call it a movement?*--> 
  A structural need: communication across scientific communities 
 
  A conjuncture: Phenomena of concentration of the activity in the international scientific publication market, exponential growth of the prices of the subscriptions to scientific journals (1975-1995: +200-300%, as per Dewatripont *et al.* 2006) 
