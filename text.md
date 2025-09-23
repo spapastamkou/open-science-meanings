@@ -160,6 +160,21 @@ Carlos Moeda (commissioner for research, innovation and science, 2014-2019): 3 O
 * Open Science 
 * Open to the world 
 
+#### (Open) Science as Commons 
+
+* Open Science and notion of commons: 2013 European e-Infrastructure Reflection Group (e-IRG), White Paper, 2013
+* “La connaissance est un bien commun de l’humanité et […] les données de la
+science doivent être érigées en données d’intérêt général” CPU, October 2015
+* “La place grandissante des technologies de l’information dans la recherche
+scientifique en tant qu’outil de recherche, de partage et de collaboration a
+réactivé la notion de « bien commun » associée à la Science”. Direction de l’IST, CNRS, Livre blanc.Une science ouverte dans une République numérique, March 2016
+* “La science est un bien commun qui doit profiter à tous” F. VIdal, 2 April 2019
+
+#### Plan S 
+
+Plan S: an initiative for Open Access publishing, launched in September 2018 by cOAlition S (international consortium of research funding and performing organisations). 
+Aim of plan S: "from 2021, scientific publications that result from research funded by public grants must be published in compliant Open Access journals or platforms".
+
 ### Scientific information and soft power
 
 Keohane & Nye consider scientific information as part of free information (the two other categories being commercial and strategic), e.g. information to be acquired (by a receiver) or made available (by the sender) for free. The sender gets advantages from the receiver using the information which is an incentive to produce it. As capacity to attract attention to the information they produce. The information revolution increases the number of channels of communication in world politics among individuals in networks (not only in bureaucracies). Which adds a layer in the existing patterns on complex interdependence at a global level. (Keohane & Nye 2012).
@@ -222,10 +237,24 @@ The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were
 
 ![Open Science Policies World Map](/images/simple_open_science_map.svg)
 
+## OS and AI
+
+![OS AI Principles as per NASA](/images/open_science_AI_principles.png "OS AI Principles: the 5 T") 
+
+* Transparency
+* Trust
+* Teamwork
+* Training 
+* Techniques
+
+[Source](https://www.earthdata.nasa.gov/news/blog/architecting-future-vision-using-large-language-models-enable-open-science): Bugbee & Ramachandran 2023  
+
 ## References 
 Benson Marshall, M., Pinfield, S., Abbott, P. et al. The impact of COVID-19 on the debate on open science: a qualitative analysis of published materials from the period of the pandemic. Humanit Soc Sci Commun 11, 1315 (2024). https://doi.org/10.1057/s41599-024-03804-w
 
 Chan, Leslie, Budd Hall, Florence Piron, Rajesh Tandon, and Lorna Williams. “Open Science Beyond Open Access: For and with communities. A step towards the decolonization of knowledge”, the Canadian Commission for UNESCO’s IdeaLab, Ottawa, Canada, July 2020
+
+Bugbee, Kaylin, & Ramachandran, Rahul. (2023). Architecting the Future: A Vision for Using Large Language Models to Enable Open Science. Zenodo. doi:10.5281/zenodo.8403782
 
 Fecher, B., Friesike, S. (2014). Open Science: One Term, Five Schools of Thought. In: Bartling, S., Friesike, S. (eds) *Opening Science*. Springer, Cham. https://doi-org.inshs.bib.cnrs.fr/10.1007/978-3-319-00026-8_2
 
