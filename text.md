@@ -180,7 +180,7 @@ réactivé la notion de « bien commun » associée à la Science”. Direction 
 #### Plan S 
 
 Plan S: an initiative for Open Access publishing, launched in September 2018 by cOAlition S (international consortium of research funding and performing organisations).
- 
+
 Aim of plan S: "from 2021, scientific publications that result from research funded by public grants must be published in compliant Open Access journals or platforms".
 
 ### Scientific information and soft power
@@ -224,8 +224,9 @@ Principles
 * Flexibility (different pathways to practicing OS) 
 * Sustainability (long-term practices, services, infrastructures and funding models) 
 
+[Source](https://www.unesco.org/en/open-science/about)
 
-### UNESCO OS Outlook1, 2023
+### UNESCO OS Outlook 1, 2023
 
 The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were open access by mid-2021, compared to 40 per cent of academic articles normally, allowing science to make great breakthroughs in record time.
 
@@ -240,6 +241,8 @@ The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were
     * Open science infrastructures now number in the thousands, increasing the need for interoperability and attention to their sustainability.
 4. OS requires a shift in the culture of science (aligned funding & policies, consideration of local specific contexts, monitoring of impact)
 5. OS requires investment
+
+[Source](https://unesdoc.unesco.org/ark:/48223/pf0000387324)
 
 ### Countries with OS policies
 
