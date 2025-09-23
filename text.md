@@ -224,7 +224,7 @@ Principles
 * Flexibility (different pathways to practicing OS) 
 * Sustainability (long-term practices, services, infrastructures and funding models) 
 
-[Source](https://www.unesco.org/en/open-science/about)
+[Source](https://unesdoc.unesco.org/ark:/48223/pf0000379949)
 
 ### UNESCO OS Outlook 1, 2023
 
@@ -232,7 +232,7 @@ The COVID-19 pandemic impact: more than 85 per cent of articles on COVID-19 were
 
 #### Key messages of the report
 
-1. OS as access to scientific knowledge for the benefit of science and society (inclusion, reproducibility, sharing, innovation)
+1. OS as access to scientific knowledge for the **benefit of science and society** (inclusion, reproducibility, sharing, innovation)
 2. OS as a (potential) truly global equitable phenomenon
 3. Rapid growth of existing OS practices around the world and across disciplines - need to adapt the OS methods of assessment (open quali/quanti evaluation, shift from publications/outputs to impact, values, people) 
     Some interesting quantitative information in this section: 
@@ -282,3 +282,5 @@ Reichmann S, Wieser B. Open science at the science-policy interface: bringing in
 Roser, Max, Hannah Ritchie, and Edouard Mathieu (2023) - “What is Moore's Law?” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/moores-law' [Online Resource]
 
 “Open Science Outlook 1: Status and Trends around the World - UNESCO Bibliothèque Numérique.” Accessed September 22, 2025. https://unesdoc.unesco.org/ark:/48223/pf0000387324.
+
+UNESCO Recommendation on Open Science. 2021. DOI: [https://doi.org/10.54677/MNMH8546](https://doi.org/10.54677/MNMH8546)
